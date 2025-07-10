@@ -5,4 +5,6 @@ ww2ogg
 revorb
 ffprobe
 tambien viene integrado algunas opciones que pueden funcionar como si eliminar los .wem despues de convertirlos a ogg  o eliminar los ogg corruptos provados por ffprobe
+igual si no encuentras las dependencias tiene para descargar automaticas al intentar convertir
+todo esta hecho por IA 
 
