@@ -22,10 +22,11 @@ Además, incluye opciones útiles como:
 - Descarga automática de dependencias si no se encuentran instaladas.
 
 ---
-
+ 
+ Proyecto desarrollado con ayuda de Inteligencia Artificial 🤖
+ 
 ## Instalación
 
 ```bash
 git clone https://github.com/tu_usuario/bnk-to-ogg.git
-cd bnk-to-ogg
-pip install -r requirements.txt
+python 3.10 usado
