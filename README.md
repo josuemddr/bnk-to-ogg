@@ -1,6 +1,6 @@
 # BNK to OGG Converter 🎵
 
-![Python](https://img.shields.io/badge/python-v3.8+-blue)
+![Python](https://img.shields.io/badge/python-v3.10+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
