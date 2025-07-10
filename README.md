@@ -11,7 +11,7 @@
 Este script en **Python** convierte archivos `.bnk` a `.ogg` para que puedas escucharlos fácilmente. Ideal para extraer audio de juegos o proyectos que usan este formato.
 
 Integra varias herramientas potentes:  
-- [bnk extractor](https://github.com/eXpl0it3r/BNKExtractor](https://github.com/eXpl0it3r/bnkextr/releases/download/2.0/bnkextr.exe)  
+- [bnk extractor](https://github.com/eXpl0it3r/bnkextr/releases/download/2.0/bnkextr.exe)  
 - [ww2ogg](https://github.com/hcs64/ww2ogg/releases/download/0.24/ww2ogg024.zip)  
 - [revorb](https://github.com/ItsBranK/ReVorb/releases/download/v1.0/ReVorb.exe)  
 - [ffprobe](https://ffmpeg.org/download.html)  
